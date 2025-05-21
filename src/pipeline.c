@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   pipeline.c                                         :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: aschenk <aschenk@student.42berlin.de>      +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/03/06 19:16:26 by aschenk           #+#    #+#             */
-/*   Updated: 2024/03/21 18:33:48 by aschenk          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 // This file contains the implementation of two functions, responsible for
 // executing the left and right side of the pipeline. As well as a function
 // executed within the parent process monitoring the exit status of the last
